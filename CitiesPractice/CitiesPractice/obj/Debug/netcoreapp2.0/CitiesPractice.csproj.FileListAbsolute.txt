@@ -1,0 +1,11 @@
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\bin\Debug\netcoreapp2.0\CitiesPractice.deps.json
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\bin\Debug\netcoreapp2.0\CitiesPractice.runtimeconfig.json
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\bin\Debug\netcoreapp2.0\CitiesPractice.runtimeconfig.dev.json
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\bin\Debug\netcoreapp2.0\CitiesPractice.dll
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\bin\Debug\netcoreapp2.0\CitiesPractice.pdb
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.csprojResolveAssemblyReference.cache
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.AssemblyInfoInputs.cache
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.AssemblyInfo.cs
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.dll
+C:\Users\Michaelha\source\repos\CitiesPractice\CitiesPractice\obj\Debug\netcoreapp2.0\CitiesPractice.pdb
